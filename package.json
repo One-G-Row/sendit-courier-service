@@ -1,8 +1,8 @@
 {
-  "name": "sendIT-group-3-client",
+  "name": "sendit-courier-client",
   "version": "0.1.0",
   "proxy": "http://localhost:5000",
-  "homepage": "https://Chalo101.github.io/sendIT-group-3-project",
+  "homepage": "https://github.com/One-G-Row/sendit-courier-service",
   "private": true,
   "dependencies": {
     "axios": "^1.7.3",
